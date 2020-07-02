@@ -6,8 +6,8 @@
 <p>Projeto feito para ligar Ongs e pessoas que querem ajudar nos custos </p>
 
 <p align="center">
-  <img alt="Home" src="./home.png" width="20%" height="50%">
-  <img alt="Details" src="./cadastro.png" width="20%" height="50%">
+  <img alt="Home" src="./home.png" width="30%" >
+  <img alt="Details" src="./cadastro.png" width="30%" >
 </p>
 
 
